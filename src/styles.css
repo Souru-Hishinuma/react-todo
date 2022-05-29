@@ -18,30 +18,6 @@ button:hover {
   color: #fff;
   cursor: pointer;
 }
-.input-area {
-  background-color: #a49e4c;
-  width: 400px;
-  height: 30px;
-  padding: 8px;
-  margin: 8px;
-  border-radius: 8px;
-}
-.incomplete-area {
-  background-color: #a44c5b;
-  width: 400px;
-  min-height: 200px;
-  padding: 8px;
-  margin: 8px;
-  border-radius: 8px;
-}
-.complete-area {
-  background-color: #4c50a4;
-  width: 400px;
-  min-height: 200px;
-  padding: 8px;
-  margin: 8px;
-  border-radius: 8px;
-}
 .title {
   text-align: center;
   margin-top: 0;
